@@ -1,5 +1,5 @@
 """
-ENTER YOUR LOCATION IN THE TWO PLACES DOWN COMMENTED BELOW AND ENJOY!!!
+ENTER YOUR LOCATION IN THE TWO PLACES DOWN, COMMENTED BELOW AND ENJOY!!!
 """
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
