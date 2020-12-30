@@ -1,5 +1,5 @@
 """
-RUN THE PROGRAM AND ENTER THE FIELDS REQUIRED
+RUN THE PROGRAM AND ENTER THE REQUIRED FIELDS
 """
 from selenium import webdriver
 import pyautogui
