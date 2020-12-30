@@ -1,5 +1,5 @@
 Hey Guys, :-)
-This idea had originally struck me when we were constantly looking on various grocery sites to buy groceries.
+This idea had originally struck me when I was constantly looking on various grocery sites to buy groceries.
 Searching same thing overand over again, which made me to write this program.
 I have compiled 2 programs-
 
