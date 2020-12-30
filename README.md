@@ -12,7 +12,7 @@ Prerequisites-
 1.Libraries-
   -Selenium
   -Pyautogui
-  -time
+  -Time
 
 2.Web Driver- Just go on google and check your browser version.
 -> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.
