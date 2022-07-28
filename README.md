@@ -1,6 +1,6 @@
 Hey Guys, :-)
-This idea had originally struck me when I was constantly looking on various grocery sites to buy groceries.
-Searching same thing over and over again, which made me to write this program.
+This idea had originally struck me when I was constantly looking on various grocery sites, comparing prices.
+Searching the same thing over and over again, this made me to write this program.<br />
 I have compiled 2 programs-
 
 <h3>1. Groceries -</h3> Searches for groceries on Bigbasket, Grofers and Jiomart. (Recursive for any number of products on your list)
