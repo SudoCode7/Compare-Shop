@@ -16,9 +16,9 @@ I have compiled 2 programs-
   3. Time <br />
 
 <h3>2.Web Driver-</h3> Just go on google and check your browser version.
--> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.
--> If you are using Edge, name it as "MicrosoftWebDriver".
--> Or if you are using Chrome name it as "ChromeDriver".
+-> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.<br />
+-> If you are using Edge, name it as "MicrosoftWebDriver".<br />
+-> Or if you are using Chrome name it as "ChromeDriver".<br />
 
 JUST ENTER IN THE FIELDS WHEREVER ASKED*
 <h1>@author: SudoCode7 
