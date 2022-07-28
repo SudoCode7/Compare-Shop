@@ -11,13 +11,13 @@ I have compiled 2 programs-
 <h2>Prerequisites-</h2>
 
 <h3>1. Libraries-</h3>
-  1. Selenium\n
-  2. Pyautogui\n
-  3. Time\n
+  1. Selenium  \n
+  2. Pyautogui  \n
+  3. Time  \n
 
 <h3>2.Web Driver-</h3> Just go on google and check your browser version.
 -> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.
--> If you are using Edge name it as "MicrosoftWebDriver".
+-> If you are using Edge, name it as "MicrosoftWebDriver".
 -> Or if you are using Chrome name it as "ChromeDriver".
 
 JUST ENTER IN THE FIELDS WHEREVER ASKED*
