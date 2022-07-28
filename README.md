@@ -11,9 +11,9 @@ I have compiled 2 programs-
 <h2>Prerequisites-</h2>
 
 <h3>1. Libraries-</h3>
-  1. Selenium
-  2. Pyautogui 
-  3. Time 
+  1. Selenium<br />
+  2. Pyautogui <br />
+  3. Time <br />
 
 <h3>2.Web Driver-</h3> Just go on google and check your browser version.
 -> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.
