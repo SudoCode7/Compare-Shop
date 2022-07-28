@@ -3,7 +3,7 @@ This idea had originally struck me when I was constantly looking on various groc
 Searching same thing over and over again, which made me to write this program.
 I have compiled 2 programs-
 
-<h3>1. Groceries -</h3> Searches for groceries on Bigbasket, Grofers and Jiomart. (Recursive for any number of products on list)
+<h3>1. Groceries -</h3> Searches for groceries on Bigbasket, Grofers and Jiomart. (Recursive for any number of products on your list)
 
 
 <h3>2. Product -</h3> Searches for product on Amzazon, Flipkart and Snapdeal. (Once)
