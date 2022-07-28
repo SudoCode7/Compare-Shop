@@ -15,7 +15,7 @@ I have compiled 2 programs-
   2. Pyautogui <br />
   3. Time <br />
 
-<h3>2.Web Driver-</h3> Just go on google and check your browser version.
+<h3>2.Web Driver-</h3> Just go on google and check your browser version.<br />
 -> Copying the version, download your version of web driver from google and paste it in the same folder as of the program.<br />
 -> If you are using Edge, name it as "MicrosoftWebDriver".<br />
 -> Or if you are using Chrome name it as "ChromeDriver".<br />
